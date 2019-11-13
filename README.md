@@ -1,0 +1,2 @@
+# SchoolCode
+My deal.
